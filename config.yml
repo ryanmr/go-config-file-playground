@@ -1,0 +1,13 @@
+---
+version: 2
+routes:
+  - route: /abc/
+    app: a
+    team: alpha
+    desc: route for abc
+    repo: org/abc
+  - app: z
+    team: beta
+    route: /xyz/
+    desc: route for xyz
+    repo:
